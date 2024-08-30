@@ -10,3 +10,5 @@ By the BC tech community, for the BC tech community. The Brooklyn College Comput
 Welcome to contribute to our open-source projects!
 
 Learn more about the BC CS Club at https://bccs.club
+
+<a href="https://bccs.club"><img width="600" alt="bccs-club-website" src="https://github.com/user-attachments/assets/a43367a3-70ab-4eef-a3d7-e50ffb62a547"></a>
