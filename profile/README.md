@@ -7,4 +7,4 @@ By the BC tech community, for the BC tech community. Welcome to contribute to th
 
 Learn more about the BC CS Club at https://bccs.club
 
-<a href="https://bccs.club"><img width="600" alt="bccs-club-website" src="https://github.com/user-attachments/assets/a43367a3-70ab-4eef-a3d7-e50ffb62a547"></a>
+<a href="https://bccs.club"><img width="600" alt="bccs-club-website" src="https://github.com/user-attachments/assets/cfc51e7c-ff30-48fa-925a-bbf47c5a6d72"></a>
